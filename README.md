@@ -1,5 +1,5 @@
-# Space Rover Gesture Controller — AI4CI Final Project
-### Muhammad | June 2026
+# Space Rover Gesture Controller — Integration of Virtual and Augmented Reality Technologies in Connected Industries - Final Project
+### Ali Raza | June 2026
 
 ---
 
@@ -19,7 +19,6 @@ SourceCode/
 ├── Python/
 │   └── gesture_sensor.py          ← Run this first
 └── Unity/
-    └── Scripts/
         └── SpaceRoverController.cs ← Attach to rover GameObject in Unity
 ```
 
