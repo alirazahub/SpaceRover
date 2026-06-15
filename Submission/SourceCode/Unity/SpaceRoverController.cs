@@ -1,7 +1,7 @@
 /*
 =============================================================================
   SpaceRoverController.cs
-  AI4CI Final Project — June 2026
+  Ali Raza — Integration of Virtual and Augmented Reality Technologies in Connected Industries Final Project — June 2026
 =============================================================================
 
   DESCRIPTION:
